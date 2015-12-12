@@ -1,0 +1,28 @@
+name: norlund
+favicon: null
+layout_spectrum: 0.673866308061406
+typography_spectrum: 0.6131203665863723
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6091138774063438
+  lightness: 0.2614950139541179
+  saturation: 0.37420230894349515
+  rhythmicContrast: 0.6702574496157467
+purpose: []
